@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "icon": "https://cdn-icons-png.flaticon.com/512/5968/5968705.png",
+    "title": "Learn Figma",
+    "created_by": "by Christopher Morgan",
+    "duration": "6h 30min",
+    "rating": "4,9"
+  },
+  {
+    "id": 2,
+    "icon": "https://cdn-icons-png.flaticon.com/512/6481/6481726.png",
+    "title": "Analog photography",
+    "created_by": "by Gordon Norman",
+    "duration": "3h 15min",
+    "rating": "4,7"
+  },
+  {
+    "id": 3,
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png?20200512141346",
+    "title": "Master Instagram",
+    "created_by": "by Sophie Gill",
+    "duration": "7h 40min",
+    "rating": "4,6"
+  },
+  {
+    "id": 4,
+    "icon": "https://cdn-icons-png.flaticon.com/512/2294/2294741.png",
+    "title": "Basics of drawing",
+    "created_by": "by Jean Tate",
+    "duration": "11h 30min",
+    "rating": "4,8"
+  },
+  {
+    "id": 5,
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png?20200616073617",
+    "title": "Photoshop - Essence",
+    "created_by": "by David Green",
+    "duration": "5h 35min",
+    "rating": "4,7"
+  }
+]
