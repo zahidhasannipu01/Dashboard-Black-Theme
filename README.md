@@ -1,6 +1,6 @@
 # Free Online Course Dashboard UI To React JS
 
-UI Created Goes to FreebieFlux
+UI Create Goes To FreebieFlux
 
 ## For Running the code
 
